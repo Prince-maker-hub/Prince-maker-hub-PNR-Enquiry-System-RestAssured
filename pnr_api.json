@@ -1,0 +1,70 @@
+{ "trainStatus":
+  [
+  {
+    "pnrNumber": "2468013579",
+    "travelDate": "2025-04-16",
+    "trainNumber": "13049",
+    "trainName": "Himgiri Express",
+    "passengerDetails": [
+      {
+        "name": "Prince Singh",
+        "age": 23,
+        "gender": "Male",
+        "seatNumber": "A1-11",
+        "status": "Confirmed"
+      },
+      {
+        "name": "Gautam Chandra",
+        "age": 27,
+        "gender": "Male",
+        "seatNumber": "A1-12",
+        "status": "Confirmed"
+      }
+    ]
+  },
+  {
+    "pnrNumber": "2468013518",
+    "travelDate": "2025-04-16",
+    "trainNumber": "12049",
+    "trainName": "Amritsar-Howrah Mail",
+    "passengerDetails": [
+      {
+        "name": "Sahil Gupta",
+        "age": 22,
+        "gender": "Male",
+        "seatNumber": "A1-13",
+        "status": "Confirmed"
+      },
+      {
+        "name": "Vivek Sharma",
+        "age": 25,
+        "gender": "Male",
+        "seatNumber": "RAC-08",
+        "status": "RAC"
+      }
+    ]
+  },
+  {
+    "pnrNumber": "2468154587",
+    "travelDate": "2025-04-16",
+    "trainNumber": "13049",
+    "trainName": "Vande Bharat Express",
+    "passengerDetails": [
+      {
+        "name": "Sailesh Goel",
+        "age": 23,
+        "gender": "Male",
+        "seatNumber": "WL",
+        "status": "Waiting"
+      },
+      {
+        "name": "Arjun Dixit",
+        "age": 22,
+        "gender": "Male",
+        "seatNumber": "WL",
+        "status": "Waiting"
+      }
+    ]
+  }
+]
+}
